@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/hassansaber/first-project-node/issues"
   },
-  "homepage": "https://github.com/hassansaber/first-project-node#readme"
+  "homepage": "https://github.com/hassansaber/first-project-node#readme",
+  "devDependencies": {
+    "@types/node": "^18.7.6"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
 }
